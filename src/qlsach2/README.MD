@@ -1,0 +1,1 @@
+tạo database trước bằng cách chạy file databese.sql
